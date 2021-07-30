@@ -9,16 +9,22 @@ Cats vs Dogs classification is a fundamental Deep Learning project for beginners
 
 https://www.kaggle.com/chetankv/dogs-cats-images
 
+No of Training Images: 8000
 
-I have made two models. One is the CNN model which gave the following accuracy     
-
-Training Set accuracy: 95%
-
-Validation Set accuracy: 93
+No of Validation Images: 2000
 
 
-I have also used VGG 16 with fine tuning to achieve a 98% accuracy
+Models: 
 
-Training Set accuracy: 99%
+    CNN model     
 
-Test Set accuracy: 98%
+      Training Set accuracy: 95%
+
+      Validation Set accuracy: 93%
+
+
+    VGG 16 with fine tuning
+    
+      Training Set accuracy: 99%
+
+      Test Set accuracy: 98%
